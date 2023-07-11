@@ -7,5 +7,6 @@ protected:
 	std::vector<int> v;
 public:
 	void Play();
+	void initv();
 };
 
