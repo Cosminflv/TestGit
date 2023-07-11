@@ -1,6 +1,11 @@
 # Prerequisites
 *.d
 
+*.vs
+*.vcxproj.user
+*.Release
+*.Debug
+
 # Compiled Object files
 *.slo
 *.lo
